@@ -1,0 +1,12 @@
+.project .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: '';
+  opacity: 0;
+  background: hsl(228, 100%, 62%);
+  z-index: -1;
+  transition: all 0.3s ease;
+}
