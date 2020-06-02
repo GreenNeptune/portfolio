@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3482a6a1.chunk.css",
+    "main.js": "/portfolio/static/js/main.22913129.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.22913129.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
+    "static/css/2.e8e2b19f.chunk.css": "/portfolio/static/css/2.e8e2b19f.chunk.css",
+    "static/js/2.037ab130.chunk.js": "/portfolio/static/js/2.037ab130.chunk.js",
+    "static/js/2.037ab130.chunk.js.map": "/portfolio/static/js/2.037ab130.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6599ac691ef26543aba767f142853ce9.js": "/portfolio/precache-manifest.6599ac691ef26543aba767f142853ce9.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.e8e2b19f.chunk.css.map": "/portfolio/static/css/2.e8e2b19f.chunk.css.map",
+    "static/css/main.3482a6a1.chunk.css.map": "/portfolio/static/css/main.3482a6a1.chunk.css.map",
+    "static/js/2.037ab130.chunk.js.LICENSE.txt": "/portfolio/static/js/2.037ab130.chunk.js.LICENSE.txt",
+    "static/media/Bali_Product.PNG": "/portfolio/static/media/Bali_Product.a42271f7.PNG",
+    "static/media/TV_Shows_search.PNG": "/portfolio/static/media/TV_Shows_search.08241da4.PNG",
+    "static/media/chuck_norris_jokes.PNG": "/portfolio/static/media/chuck_norris_jokes.ef22aa5e.PNG",
+    "static/media/minecraft_project_logo.PNG": "/portfolio/static/media/minecraft_project_logo.6fc11e40.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075c0788.js",
+    "static/css/2.e8e2b19f.chunk.css",
+    "static/js/2.037ab130.chunk.js",
+    "static/css/main.3482a6a1.chunk.css",
+    "static/js/main.22913129.chunk.js"
+  ]
+}
