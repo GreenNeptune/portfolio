@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2ef903d8.chunk.css",
-    "main.js": "/portfolio/static/js/main.2076578f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2076578f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e004ff12.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e004ff12.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
     "static/css/2.e8e2b19f.chunk.css": "/portfolio/static/css/2.e8e2b19f.chunk.css",
     "static/js/2.51201db2.chunk.js": "/portfolio/static/js/2.51201db2.chunk.js",
     "static/js/2.51201db2.chunk.js.map": "/portfolio/static/js/2.51201db2.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.451ca19d14062e28e176d624d5709d95.js": "/portfolio/precache-manifest.451ca19d14062e28e176d624d5709d95.js",
+    "precache-manifest.bafc721b5f3a3b9505784a93c86b92f7.js": "/portfolio/precache-manifest.bafc721b5f3a3b9505784a93c86b92f7.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.e8e2b19f.chunk.css.map": "/portfolio/static/css/2.e8e2b19f.chunk.css.map",
     "static/css/main.2ef903d8.chunk.css.map": "/portfolio/static/css/main.2ef903d8.chunk.css.map",
     "static/js/2.51201db2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.51201db2.chunk.js.LICENSE.txt",
-    "static/media/Bali_Product.PNG": "/portfolio/static/media/Bali_Product.a42271f7.PNG",
-    "static/media/TV_Shows_search.PNG": "/portfolio/static/media/TV_Shows_search.08241da4.PNG",
-    "static/media/chuck_norris_jokes.PNG": "/portfolio/static/media/chuck_norris_jokes.ef22aa5e.PNG",
-    "static/media/minecraft_project_logo.PNG": "/portfolio/static/media/minecraft_project_logo.6fc11e40.PNG"
+    "static/media/Bali_Product.PNG": "/portfolio/static/media/Bali_Product.c673de37.PNG",
+    "static/media/TV_Shows_search.PNG": "/portfolio/static/media/TV_Shows_search.b18d7bb8.PNG",
+    "static/media/chuck_norris_jokes.PNG": "/portfolio/static/media/chuck_norris_jokes.d751959f.PNG",
+    "static/media/minecraft_project_logo.PNG": "/portfolio/static/media/minecraft_project_logo.a3c5a079.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.075c0788.js",
     "static/css/2.e8e2b19f.chunk.css",
     "static/js/2.51201db2.chunk.js",
     "static/css/main.2ef903d8.chunk.css",
-    "static/js/main.2076578f.chunk.js"
+    "static/js/main.e004ff12.chunk.js"
   ]
 }
