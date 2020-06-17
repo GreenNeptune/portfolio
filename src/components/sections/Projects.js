@@ -1,12 +1,11 @@
 import React from 'react';
-import './sections.css';
 import minecraftProjectPNG from '../../assests/img/minecraft_project_logo.PNG';
 import TV_Shows_search from '../../assests/img/TV_Shows_search.PNG';
 import chuck_norris_jokes from '../../assests/img/chuck_norris_jokes.PNG';
 import Bali_Product from '../../assests/img/Bali_Product.PNG';
 
 
-function Projects(props) {
+function Projects() {
   return (
     <section id="projects" name="projects">
       <h1>projects</h1>
@@ -22,7 +21,7 @@ function Projects(props) {
         <div className="project">
           <img src={Bali_Product} alt="" />
           <div className="project__overlay">
-            <h3><a href="https://GreenNeptune.github.io/Online-Shope-BaliProduct">Online Shop</a></h3>
+            <h3><a href="https://baliproduct.herokuapp.com/">Online Shop</a></h3>
             <p>HTML, JS, CSS\SCSS </p>
             <p> React, Redux </p>
           </div>
@@ -43,8 +42,6 @@ function Projects(props) {
             <p>React, working with API's </p>
           </div>
         </div>
-
-
       </div>
     </section>
   );

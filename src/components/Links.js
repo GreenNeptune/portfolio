@@ -9,7 +9,7 @@ function Links() {
         { to: "projects", text: "Projects" },
         { to: "contact", text: "Contact" }
       ]} />
-    </  div >
+    </div>
   );
 }
 
