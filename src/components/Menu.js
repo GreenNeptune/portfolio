@@ -4,9 +4,6 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Links from './Links';
 
-
-
-
 const Menu = () => {
   const menuRef = useRef(null)
   const [meneHeight, setMeneHeight] = useState(0);
@@ -15,10 +12,7 @@ const Menu = () => {
     setMeneHeight(menuRef.current.clientHeight)
   }, []);
 
-
-
   useEffect(() => {
-
     Events.scrollEvent.register('begin', function () {
       console.log("begin", arguments);
     });
@@ -45,7 +39,6 @@ const Menu = () => {
       </Navbar>
     </div>
   );
-
 };
 
 export default Menu;
