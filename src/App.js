@@ -3,7 +3,6 @@ import React from 'react';
 import 'bootstrap/scss/bootstrap.scss';
 import './style/App.scss';
 import Menu from './components/Menu'
-import Skills from './components/sections/Skills';
 import About from './components/sections/About';
 import Contact from './components/sections/Contact';
 import Footer from './components/Footer';
@@ -21,7 +20,6 @@ function App() {
       < Menu />
       <About />
       <Projects />
-      {/* <Skills /> */}
       <Contact />
       <Footer />
     </div>
